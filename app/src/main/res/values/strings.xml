@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SunlightAPITest</string>
+    <string name="search_text">Enter your search here</string>
+    <string name="search_button">Do they say this?</string>
+</resources>
